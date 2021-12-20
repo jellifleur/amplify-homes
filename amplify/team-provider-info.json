@@ -10,6 +10,12 @@
       "StackName": "amplify-amplifyhomes-main-115254",
       "StackId": "arn:aws:cloudformation:ap-northeast-2:286771368236:stack/amplify-amplifyhomes-main-115254/df0dadc0-5f2f-11ec-9871-024ba6091dfa",
       "AmplifyAppId": "d7r13nvzz23kd"
+    },
+    "categories": {
+      "auth": {
+        "undefined": {},
+        "amplifyhomes": {}
+      }
     }
   },
   "staging": {
