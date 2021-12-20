@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <TestNavBar position="fixed" width="100%" style={{ zIndex:'1111' }} />
-      <div style={{ position:"fixed", top:"60px", right:"0", zIndex:'111', textAlign:"center", backgroundColor:"#fff", }}>
+      <div style={{ position:"fixed", top:"60px", right:"0", zIndex:'111', textAlign:"center", backgroundColor:"#fff", borderLeft: "1px solid #ddd", height: "100%" }}>
         <SearchMessage style={{ margin:"16px 0 0" }} />
         <CardMessageCollection />
         <ButtonNew />
